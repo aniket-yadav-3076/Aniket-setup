@@ -1,1 +1,1 @@
-print("this is a project setup")
+print("this is a project  commit setup")
